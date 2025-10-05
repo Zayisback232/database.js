@@ -1,7 +1,8 @@
 {
   "6285142929262": {
     "name": "zay",
-    "password": "241010"
+    "password": "12",
+    "registeredAt": "2025-09-15T07:56:56.656Z"
   },
   "6285133875315": {
     "name": "zaymarket",
@@ -124,11 +125,6 @@
     "password": "17",
     "registeredAt": "2025-09-14T10:57:27.696Z"
   },
-  "6285142929262": {
-    "name": "zay",
-    "password": "12",
-    "registeredAt": "2025-09-15T07:56:56.656Z"
-  },
   "6283844924762": {
     "name": "Brian",
     "password": "1122",
@@ -138,5 +134,10 @@
     "name": "yogz",
     "password": "yogz29",
     "registeredAt": "2025-09-17T08:31:06.900Z"
+  },
+  "6288707037832": {
+    "name": "boy",
+    "password": "17",
+    "registeredAt": "2025-10-05T08:35:09.708Z"
   }
 }
